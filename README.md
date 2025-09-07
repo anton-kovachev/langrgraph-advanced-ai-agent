@@ -5,6 +5,6 @@ This is done by taking advantage of the langgraph library in order represent eac
 
 You will need the following keys configured in an .env configuration file placed under the main project's folder.
 
-#### BRIGHT_DATA_API_URL
-#### BRIGHT_DATA_API_KEY
-#### ANTHROPIC_API_KEY
+##### BRIGHT_DATA_API_URL
+##### BRIGHT_DATA_API_KEY
+##### ANTHROPIC_API_KEY
